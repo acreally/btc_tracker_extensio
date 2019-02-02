@@ -1,0 +1,16 @@
+  {
+    "name": "BTC Tracker",
+    "version": "1.0",
+    "description": "Keep track of BTC metrics",
+    "manifest_version": 2,
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/BC_Logo_.png",
+        "32": "images/BC_Logo_.png",
+        "48": "images/BC_Logo_.png",
+        "128": "images/BC_Logo_.png"
+      }
+    }
+  }
