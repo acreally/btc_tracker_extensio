@@ -1,4 +1,4 @@
-# btc_tracker_extensio
+# btc_tracker_extension
 a Chrome extension to track BTC metrics
 
 Developed as a demo for an ElleHacks presentation on how to develop Chrome extensions.  
